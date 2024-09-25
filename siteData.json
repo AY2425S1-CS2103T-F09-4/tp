@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "cheng-lui-leng": "Cheng Lui Leng",
-        "jane-doe": "Jane Doe",
+        "wang-jingjing": "Wang Jingjing",
         "wong-wei-jian": "Wong Wei Jian",
         "curtis-chang": "Curtis Chang",
         "quah-kai-kiat": "Quah Kai Kiat"
@@ -156,6 +156,13 @@
     {
       "src": "team/luileng.md",
       "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/potaotototo.md",
+      "headings": {
+        "i-m-jingjing": "I'm Jingjing."
+      },
       "headingKeywords": {}
     },
     {
