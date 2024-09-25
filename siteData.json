@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "wong-wei-jian": "Wong Wei Jian",
         "curtis-chang": "Curtis Chang",
         "james-doe": "James Doe"
       },
@@ -146,6 +146,11 @@
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/weijianwong.md",
+      "headings": {},
       "headingKeywords": {}
     }
   ]
