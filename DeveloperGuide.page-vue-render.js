@@ -200,6 +200,6 @@ with(this){return _c('p',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs in
 with(this){return _c('p',[_v("The following sequence diagram illustrates the interactions that take place within the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Logic")]),_v(" component when the user executes the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("displayCommand")]),_v(", taking "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("execute(\"display 1\")")]),_v(" API call as an example.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 21:13:04 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 21:13:32 GMT+8]")])])])}
 }];
   
