@@ -66,6 +66,14 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-student": "Deleting a student",
+        "adding-a-student": "Adding a student",
+        "editing-a-student": "Editing a student",
+        "adding-a-lesson-to-a-student": "Adding a lesson to a student",
+        "deleting-a-lesson-from-a-student": "Deleting a lesson from a student",
+        "adding-a-remark-to-a-student": "Adding a remark to a student",
+        "deleting-a-remark-from-a-student": "Deleting a remark from a student",
+        "displaying-a-student": "Displaying a student",
+        "navigating-through-command-history": "Navigating through command history",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
