@@ -419,7 +419,7 @@ with(this){return _c('h2',{attrs:{"id":"things-you-should-definitely-know"}},[_v
 with(this){return _c('h3',{attrs:{"id":"constraints-on-adding-a-lesson"}},[_v("Constraints on Adding a Lesson"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#constraints-on-adding-a-lesson","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Unfortunately, as of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("V1.5")]),_v(" there are a few important constraints regarding lessons:")])}
+with(this){return _c('p',[_v("Unfortunately, as of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("V1.6")]),_v(" there are a few important constraints regarding lessons:")])}
 },function anonymous(
 ) {
 with(this){return _c('ol',[_c('li',[_v("Lessons are not allowed to overflow into the next day.")]),_v(" "),_c('li',[_v("Group tuition is currently not supported, so adding overlapping or clashing lessons is not available yet.")])])}
@@ -437,7 +437,7 @@ with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Take
 with(this){return _c('h3',{attrs:{"id":"current-limitations"}},[_v("Current Limitations"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#current-limitations","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("As of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("V1.5")]),_v(", our app has a few limitations outlined below. Rest assured, we plan to resolve them in "),_c('a',{attrs:{"href":"#future-features"}},[_v("future updates")])])}
+with(this){return _c('p',[_v("As of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("V1.6")]),_v(", our app has a few limitations outlined below. Rest assured, we plan to resolve them in "),_c('a',{attrs:{"href":"#future-features"}},[_v("future updates")])])}
 },function anonymous(
 ) {
 with(this){return _c('ol',[_c('li',[_v("Remarks can only be added and deleted one at a time.")]),_v(" "),_c('li',[_v("If you wish to edit a remark, first delete the incorrect one, then add the updated version.")]),_v(" "),_c('li',[_v("After using the find command to locate student(s), running most other commands will reset the left panel to the default view, similar to calling "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(".")]),_v(" "),_c('li',[_v("Tags that are too long are cut off on the left panel.")]),_v(" "),_c('li',[_v("If you wish to edit a lesson, first delete the incorrect one, then add the updated version.")]),_v(" "),_c('li',[_v("After running edit, addremark, deleteremark, addlesson and deletelesson, the right panel will reset to the top, so you may need to scroll down to view your changes.")])])}
@@ -542,6 +542,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Take me back to Table of Contents")]),_v(" "),_c('br')])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 12:20:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 12:45:22 GMT+8]")])])])}
 }];
   
